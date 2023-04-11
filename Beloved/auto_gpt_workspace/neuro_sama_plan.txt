@@ -1,0 +1,7 @@
+AI Creation Plan:
+
+1. Determine the components of the AI system and break them down into smaller, more manageable steps.
+2. Create a GitHub repository to track progress and organize code.
+3. Begin coding the AI system according to the steps determined in step 1.
+4. Create small tests to check each step of the plan and catch errors as soon as possible.
+5. Continuously test and refine the code to ensure it is functioning properly.

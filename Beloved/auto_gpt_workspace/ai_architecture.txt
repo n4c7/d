@@ -1,0 +1,1 @@
+Neuro-sama's AI architecture and programming language: Neuro-sama's AI system uses a combination of a deep neural network and generative models. The system was built utilizing Python and employs machine learning algorithms to learn and adapt to Neuro-sama's interactions with viewers.
